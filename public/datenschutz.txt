@@ -1,0 +1,26 @@
+[Hier deinen Datenschutztext einfügen]
+
+Beispiel:
+
+DATENSCHUTZERKLÄRUNG
+
+1. Verantwortlicher
+Cevin Müller
+[Deine Adresse]
+[Deine E-Mail]
+[Deine Telefonnummer]
+
+2. Erhebung und Speicherung personenbezogener Daten
+...
+
+3. Weitergabe von Daten
+...
+
+4. Cookies
+...
+
+5. Rechte der betroffenen Person
+...
+
+6. Aktualität und Änderung dieser Datenschutzerklärung
+...
