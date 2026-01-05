@@ -7,9 +7,9 @@ import { useToast } from '@/hooks/use-toast';
 // ============================================
 // EMAILJS KONFIGURATION - HIER DEINE WERTE EINTRAGEN
 // ============================================
-const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID';    // z.B. 'service_abc123'
-const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID';  // z.B. 'template_xyz789'
-const EMAILJS_PUBLIC_KEY = 'YOUR_PUBLIC_KEY';    // Dein Public Key
+const EMAILJS_SERVICE_ID = 'service_kpd3nej';    // z.B. 'service_abc123'
+const EMAILJS_TEMPLATE_ID = 'template_cky7age';  // z.B. 'template_xyz789'
+const EMAILJS_PUBLIC_KEY = 'h89HLPKJqj-U49NxP';    // Dein Public Key
 // ============================================
 
 interface ContactSectionProps {
