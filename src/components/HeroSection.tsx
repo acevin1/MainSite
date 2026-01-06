@@ -18,7 +18,7 @@ const HeroSection = ({
     de: {
       title: "Kein Schnickschnack.",
       subtitle: "Qualität",
-      description: "Hi, ich bin Cevin Rothenhäusler – Webentwickler und Digitalberater. Seit 2,5 Jahren helfe ich lokalen Unternehmen dabei, digital sichtbar zu werden. Meine Spezialität: Schöne One-Pager, die überzeugen.",
+      description: "Hallo, ich bin Cevin Rothenhäusler – Webentwickler und Digitalberater. Seit 2,5 Jahren helfe ich lokalen Unternehmen dabei, digital sichtbar zu werden. Meine Spezialität: Schöne One-Pager, die überzeugen.",
       callout: "Du willst digital durchstarten, aber hast keinen Plan von Websites? Ich höre zu und entwickle mit dir eine Lösung, die funktioniert.",
       button: "Beispiel-Seiten",
       upload: "Dein Profilbild",
@@ -82,10 +82,7 @@ const HeroSection = ({
                         <p className="text-sm text-muted-foreground">{t.uploadText}</p>
                       </div>
                     </div>}
-                </div>
-                <input type="file" accept="image/*" onChange={handleImageUpload} className="absolute inset-0 w-full h-full opacity-0 cursor-pointer rounded-full" />
-                <div className="absolute inset-0 rounded-full bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
-                  <Upload className="text-foreground" size={32} />
+                </div
                 </div>
               </div>
             </div>
