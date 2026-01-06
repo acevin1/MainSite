@@ -78,7 +78,7 @@ const Header = ({ currentLanguage, onLanguageChange }: HeaderProps) => {
             <img 
               src={logoPlaceholder} 
               alt="Firmenlogo" 
-              className="h-8 md:h-18 w-auto object-contain"
+              className="h-8 md:h-14 w-auto object-contain"
             />
           </div>
           
