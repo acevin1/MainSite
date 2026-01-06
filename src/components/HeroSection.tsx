@@ -18,7 +18,7 @@ const HeroSection = ({
     de: {
       title: "Kein Schnickschnack.",
       subtitle: "Qualität",
-      description: "Hi, ich bin Cevin Müller – Webentwickler und Digitalberater. Seit 2,5 Jahren helfe ich lokalen Unternehmen dabei, digital sichtbar zu werden. Meine Spezialität: Schöne One-Pager, die überzeugen.",
+      description: "Hi, ich bin Cevin Rothenhäusler – Webentwickler und Digitalberater. Seit 2,5 Jahren helfe ich lokalen Unternehmen dabei, digital sichtbar zu werden. Meine Spezialität: Schöne One-Pager, die überzeugen.",
       callout: "Du willst digital durchstarten, aber hast keinen Plan von Websites? Ich höre zu und entwickle mit dir eine Lösung, die funktioniert.",
       button: "Beispiel-Seiten",
       upload: "Dein Profilbild",
