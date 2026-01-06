@@ -82,8 +82,8 @@ const HeroSection = ({
                         <p className="text-sm text-muted-foreground">{t.uploadText}</p>
                       </div>
                     </div>}
-                </div
                 </div>
+              
               </div>
             </div>
 
