@@ -2,7 +2,7 @@ import { ArrowRight, Upload } from 'lucide-react';
 import { useState } from 'react';
 import DynamicBackground from './DynamicBackground';
 import DemoSelector from './DemoSelector';
-import profilePlaceholder from '@/assets/profile-placeholder.jpg';
+import profilePlaceholder from '@/assets/profile-placeholder.png';
 
 interface HeroSectionProps {
   currentLanguage: 'de' | 'en';
