@@ -19,7 +19,7 @@ const ResultsSection = ({ currentLanguage }: ResultsSectionProps) => {
       projectEnd: " erreicht.",
       stats: {
         views: "Aufrufe",
-        followers: "Neue Follower",
+        followers: "Likes",
         viewProfile: "Profil ansehen"
       },
       workspace: {
@@ -59,7 +59,7 @@ const ResultsSection = ({ currentLanguage }: ResultsSectionProps) => {
       projectEnd: ".",
       stats: {
         views: "Views",
-        followers: "New Followers",
+        followers: "Likes",
         viewProfile: "View Profile"
       },
       workspace: {
@@ -127,7 +127,7 @@ const ResultsSection = ({ currentLanguage }: ResultsSectionProps) => {
                 </div>
                 <div className="bg-gradient-to-br from-muted to-card p-4 rounded-lg text-center border border-border hover:border-gold/50 transition-all duration-300 transform hover:scale-105">
                   <Users className="w-8 h-8 text-silver mx-auto mb-2" />
-                  <div className="text-2xl font-bold text-gold-light">150K+</div>
+                  <div className="text-2xl font-bold text-gold-light">2M ♥ +</div>
                   <div className="text-sm text-muted-foreground">{t.stats.followers}</div>
                 </div>
               </div>

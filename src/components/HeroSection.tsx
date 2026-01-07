@@ -24,7 +24,7 @@ const HeroSection = ({
       upload: "Dein Profilbild",
       uploadText: "Klicke zum Hochladen",
       stats: {
-        views: "Aufrufe",
+        views: "Aufrufe im Top Monat",
         years: "Jahre",
         honest: "Ehrlich",
         quality: "Qualität"
@@ -39,7 +39,7 @@ const HeroSection = ({
       upload: "Your Profile Picture",
       uploadText: "Click to upload",
       stats: {
-        views: "Views",
+        views: "Views in one Month",
         years: "Years",
         honest: "Honest",
         quality: "Quality"
