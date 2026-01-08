@@ -30,19 +30,19 @@ const ResultsSection = ({ currentLanguage }: ResultsSectionProps) => {
       testimonials: [
         {
           name: "Sarah Weber",
-          business: "Fahrradladen Weber",
+          business: "",
           text: "Ich hatte keine Ahnung von Social Media – jetzt läuft mein Onlineshop online besser als je zuvor!",
           rating: 5
         },
         {
           name: "Thomas Klein",
-          business: "Klein's Bäckerei",
+          business: "",
           text: "Die Zusammenarbeit mit Cevin war menschlich, professionell und direkt. Kein Blabla – sondern Ergebnisse.",
           rating: 5
         },
         {
           name: "Lisa Hoffmann",
-          business: "Yoga Studio Balance",
+          business: "",
             text: "Endlich hat jemand zugehört und nicht einfach verkauft. 100% Empfehlung für Leute mit hohen Ansprüchen",
           rating: 5
         }
@@ -70,20 +70,20 @@ const ResultsSection = ({ currentLanguage }: ResultsSectionProps) => {
       testimonials: [
         {
           name: "Sarah Weber",
-          business: "Weber Bike Shop",
-          text: "I had no idea about social media – now my bike shop is running better online than ever before!",
+          business: "",
+          text: "I had no idea about social media – now my Online Shop is running better online than ever before!",
           rating: 5
         },
         {
           name: "Thomas Klein",
-          business: "Klein's Bakery",
+          business: "",
           text: "Working with Cevin was personal, professional and direct. No nonsense – just results.",
           rating: 5
         },
         {
           name: "Lisa Hoffmann",
-          business: "Balance Yoga Studio",
-          text: "Finally someone who listened and didn't just sell. 100% recommendation!",
+          business: "",
+          text: "Finally someone who listened and didn't just sell. 100% recommendation for People with high demands!",
           rating: 5
         }
       ]
@@ -133,7 +133,7 @@ const ResultsSection = ({ currentLanguage }: ResultsSectionProps) => {
               </div>
               
               <a 
-                href="https://instagram.com" 
+                href="https://www.instagram.com/shiftedna/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-gradient-to-r from-gold to-gold-light text-foreground px-4 py-2 rounded-lg font-semibold hover:opacity-90 transition-opacity text-sm"
