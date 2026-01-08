@@ -57,7 +57,6 @@ const ContactSection = ({ currentLanguage }: ContactSectionProps) => {
         topics: {
           website: "Website-Erstellung",
           socialMedia: "Social Media",
-          google: "Google-Eintrag",
           consulting: "Beratung",
           general: "Allgemein"
         }
@@ -95,7 +94,6 @@ const ContactSection = ({ currentLanguage }: ContactSectionProps) => {
         topics: {
           website: "Website creation",
           socialMedia: "Social Media",
-          google: "Google listing",
           consulting: "Consulting",
           general: "General"
         }
@@ -267,7 +265,6 @@ const ContactSection = ({ currentLanguage }: ContactSectionProps) => {
                   <option value="">{t.form.selectPlaceholder}</option>
                   <option value="website">{t.form.topics.website}</option>
                   <option value="social-media">{t.form.topics.socialMedia}</option>
-                  <option value="google">{t.form.topics.google}</option>
                   <option value="consulting">{t.form.topics.consulting}</option>
                   <option value="general">{t.form.topics.general}</option>
                 </select>
