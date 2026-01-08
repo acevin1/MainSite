@@ -31,7 +31,7 @@ const ResultsSection = ({ currentLanguage }: ResultsSectionProps) => {
         {
           name: "Sarah Weber",
           business: "Fahrradladen Weber",
-          text: "Ich hatte keine Ahnung von Social Media – jetzt läuft mein Fahrradladen online besser als je zuvor!",
+          text: "Ich hatte keine Ahnung von Social Media – jetzt läuft mein Onlineshop online besser als je zuvor!",
           rating: 5
         },
         {
@@ -43,7 +43,7 @@ const ResultsSection = ({ currentLanguage }: ResultsSectionProps) => {
         {
           name: "Lisa Hoffmann",
           business: "Yoga Studio Balance",
-            text: "Endlich hat jemand zugehört und nicht einfach verkauft. 100% Empfehlung!" ㅤㅤ,
+            text: "Endlich hat jemand zugehört und nicht einfach verkauft. 100% Empfehlung für Leute mit hohen Ansprüchen",
           rating: 5
         }
       ]
