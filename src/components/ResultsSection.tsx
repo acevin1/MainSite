@@ -43,7 +43,7 @@ const ResultsSection = ({ currentLanguage }: ResultsSectionProps) => {
         {
           name: "Lisa Hoffmann",
           business: "Yoga Studio Balance",
-          text: "Endlich hat jemand zugehört und nicht einfach verkauft. 100% Empfehlung!                             ",
+          text: "Endlich hat jemand zugehört und nicht einfach verkauft. 100% Empfehlung!             ㅤㅤㅤㅤㅤ     ",
           rating: 5
         }
       ]
