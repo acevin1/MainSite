@@ -63,7 +63,7 @@ const HeroSection = ({
       reader.readAsDataURL(file);
     }
   };
-  return <section id="home" className="min-h-[90vh] relative overflow-hidden pt-16">
+  return <section id="home" className="min-h-fit lg:min-h-[55vh] relative overflow-hidden pt-16">
       <DynamicBackground />
       
       <div className="relative z-10 container mx-auto px-4 py-4 lg:py-12">
