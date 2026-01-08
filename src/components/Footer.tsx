@@ -21,7 +21,7 @@ const Footer = ({ currentLanguage, onLanguageChange }: FooterProps) => {
       services: "Leistungen",
       results: "Ergebnisse",
       contact: "Kontakt",
-      rights: "Alle Rechte vorbehalten.",
+      rights: "",
       imprint: "Impressum",
       privacy: "Datenschutz"
     },
@@ -35,7 +35,7 @@ const Footer = ({ currentLanguage, onLanguageChange }: FooterProps) => {
       services: "Services",
       results: "Results",
       contact: "Contact",
-      rights: "All rights reserved.",
+      rights: "",
       imprint: "Imprint",
       privacy: "Privacy"
     }
