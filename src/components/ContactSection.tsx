@@ -34,7 +34,7 @@ const ContactSection = ({ currentLanguage }: ContactSectionProps) => {
       titleEnd: " sprechen",
       subtitle: "Ich antworte dir innerhalb von 24h – versprochen.",
       contactDirect: "Direkt kontaktieren",
-      whatsappText: "WhatsApp Business verfügbar",
+      whatsappText: "WhatsApp verfügbar",
       whyWorkWith: "Warum mit mir arbeiten?",
       benefits: [
         "✓ Kostenlose Erstberatung (30 Min.)",
@@ -72,7 +72,7 @@ const ContactSection = ({ currentLanguage }: ContactSectionProps) => {
       titleEnd: "",
       subtitle: "I'll respond within 24h – guaranteed.",
       contactDirect: "Contact directly",
-      whatsappText: "WhatsApp Business available",
+      whatsappText: "WhatsApp available",
       whyWorkWith: "Why work with me?",
       benefits: [
         "✓ Free initial consultation (30 min.)",
@@ -193,11 +193,11 @@ const ContactSection = ({ currentLanguage }: ContactSectionProps) => {
               <div className="space-y-4">
                 <div className="flex items-center gap-4">
                   <Mail className="w-6 h-6 text-silver" />
-                  <span className="text-lg text-muted-foreground">max.mueller@webdev-pro.de</span>
+                  <span className="text-lg text-muted-foreground">cworkz.industries@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <Phone className="w-6 h-6 text-silver" />
-                  <span className="text-lg text-muted-foreground">+49 123 456 7890</span>
+                  <span className="text-lg text-muted-foreground">+49 151 56044032</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MessageCircle className="w-6 h-6 text-silver" />
