@@ -115,7 +115,7 @@ const Footer = ({ currentLanguage, onLanguageChange }: FooterProps) => {
         {/* Bottom Bar */}
         <div className="border-t border-border pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © {currentYear} WebDev Pro. {t.rights}
+            © {currentYear}  {t.rights}
           </p>
           <div className="flex gap-6 text-sm">
             <Link to="/imprint" className="text-muted-foreground hover:text-gold-light transition-colors">
