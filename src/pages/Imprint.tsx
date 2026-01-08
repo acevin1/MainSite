@@ -25,19 +25,17 @@ const Imprint = () => {
         title: "Impressum",
         text: `Angaben gemäß § 5 TMG:
 
-Max Mustermann
-WebDev Pro
-Musterstraße 123
-12345 Musterstadt
+Cevin Rothenhäusler
+Eichenweg 9
+72581 Dettingen an der Erms
 
 Kontakt:
-Telefon: +49 123 456789
-E-Mail: max.mueller@webdev-pro.de
+Telefon: +4915156044032
+E-Mail: cworkz.industries@gmail.com
 
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-Max Mustermann
-Musterstraße 123
-12345 Musterstadt`
+Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV`
+
+
       },
       privacyContent: {
         title: "Datenschutzerklärung",
@@ -70,19 +68,25 @@ Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeichert
         title: "Imprint",
         text: `Information according to § 5 TMG:
 
-Max Mustermann
-WebDev Pro
-Sample Street 123
-12345 Sample City
+Legal Notice
 
-Contact:
-Phone: +49 123 456789
-Email: max.mueller@webdev-pro.de
+Information provided in accordance with applicable laws.
 
-Responsible for content according to § 55 Abs. 2 RStV:
-Max Mustermann
-Sample Street 123
-12345 Sample City`
+Owner / Responsible Party
+
+Cevin Rothenhäusler
+Eichenweg 9
+72581 Dettingen an der Erms
+Germany
+
+Contact Information
+
+Phone: +49 151 56044032
+Email: cworkz.industries@gmail.com
+
+Content Responsibility
+
+Cevin Rothenhäusler is responsible for the content of this website.`
       },
       privacyContent: {
         title: "Privacy Policy",
