@@ -49,13 +49,13 @@ const Footer = ({ currentLanguage, onLanguageChange }: FooterProps) => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           {/* Brand & Contact */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold text-foreground">WebDev Pro</h3>
+            <h3 className="text-2xl font-bold text-foreground">CWORKZ</h3>
             <p className="text-muted-foreground">
               {t.description}
             </p>
             <div className="flex items-center gap-2 text-muted-foreground">
               <Mail size={16} className="text-silver" />
-              <span>cevin.mueller@webdev-pro.de</span>
+              <span>cworkz.industries@gmail.com</span>
             </div>
           </div>
 
